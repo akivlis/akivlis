@@ -1,7 +1,7 @@
 ### Hi there, I'm Sil 👋
 
 
-#### I'm an iOS Developer working in Kosice, Slovakia.
+#### I'm an iOS Developer working from Kosice, Slovakia.
 
 
 - 🔭 I’m currently working on my pet project which detects cards for MTG in realtime.
